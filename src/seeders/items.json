@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "alias": "archer",
+        "img": "src/assets/img/archer.png",
+        "title": "Archer",
+        "description": "archer archer archer",
+        "level": 4,
+        "info": [
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"}
+        ]
+    },
+    {
+        "id": 2,
+        "alias": "wizard",
+        "img": "src/assets/img/wizard.png",
+        "title": "Wizard",
+        "description": "wizard wizard wizard",
+        "level": 3,
+        "info": [
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"}
+        ]
+    },
+    {
+        "id": 3,
+        "alias": "barbarian",
+        "img": "src/assets/img/barbarian.png",
+        "title": "barbarian",
+        "description": "barbarian barbarian barbarian",
+        "level": 2,
+        "info": [
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"}
+        ]
+    },
+    {
+        "id": 4,
+        "alias": "giant",
+        "img": "src/assets/img/giant.png",
+        "title": "Giant",
+        "description": "giant giant giant",
+        "level": 1,
+        "info": [
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"}
+        ]
+    },
+    {
+        "id": 5,
+        "alias": "goblin",
+        "img": "src/assets/img/goblin.png",
+        "title": "Goblin",
+        "description": "Goblin Goblin Goblin",
+        "level": 5,
+        "info": [
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"},
+            {"title": "training", "value": "25"}
+        ]
+    }
+]
