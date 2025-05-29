@@ -16,11 +16,9 @@ export default {
 </script>
 
 <template>
-    <div class="md-body">
-<!--        @onSubmit - принимает из компонента TheForm слушатель 'onSubmit'-->
-<!--        с параметром 'value' и присваивается функции 'handleSubmit'-->
-        <TheForm @onSubmit="handleSubmit"/>
-    </div>
+    <!--@onSubmit - ловим($emit 'onSubmit') из компонента TheForm -->
+    <!--с параметром 'value' и вызываем функцию 'handleSubmit'-->
+    <TheForm @onSubmit="handleSubmit"/>
 </template>
 
 <style lang="scss">
